@@ -1,7 +1,7 @@
-# Mapbox-navigation-search-places-name
-Mapbox example with navigation, Route, Place Search ,and Place Picker
+# Mapbox-navigation-search-places-name by Arun Android
+Mapbox example with navigation, Route, Place Search ,and Place Picker (Arun Android)
 
-# Screenshots
+# Screenshots (Arun Android)
 
 <p align="center">
   <img src="Screenshot1.png" width="200" height="455">
