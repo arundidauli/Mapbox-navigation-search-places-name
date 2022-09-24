@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private static final String ICON_LAYER_ID = "icon-layer-id";
     private static final String ICON_SOURCE_ID = "icon-source-id";
     private static final String RED_PIN_ICON_ID = "red-pin-icon-id";
-    static String Secret_Key = "sk.eyJ1IjoiZm1idW1hcCIsImEiOiJjbDg0ZDd0MTgwZXZzM3dvZXZ4aG9wa3Z3In0.DFgedHbH0jb8Tlndgtl2TQ";
+    static String Secret_Key = "your Secret key";
     public MapboxMap mapboxMap;
     MapView mapView;
     Point origin = Point.fromLngLat(90.399452, 23.777176);
